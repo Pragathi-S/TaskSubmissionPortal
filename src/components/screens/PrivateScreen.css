@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+/* .home,
+.profile,
+.tasks {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+} */
+
+.logout-btn{
+  color:white;
+  background-color: black;
+  font-size: 17px;
+  border: none;
+  margin-top: 13px;
+  margin-left: 170vh;
+  font-weight: 700;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.header{
+  background: black;
+  height: 47px;
+  display: flex;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.logo{
+  color:#7ec0c2;
+  height: 30px;
+  width: 30px;
+}
+.brandname{
+  margin-left: 20px;
+  text-shadow: 2px 2px #7ec0c2;
+  font-size: 30px;
+  color:white;
+  font-weight: 700;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+

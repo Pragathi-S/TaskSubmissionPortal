@@ -1,0 +1,60 @@
+
+.task-container{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 4%;
+    background-color: white;
+    height: max-content;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.addwork-btn{
+    margin-left: 30px;
+    background-color: white;
+    border: none;
+}
+
+th, td{
+    padding: 0.8%
+}
+
+.task-table, th, td{
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: #94d4d6 ;
+    font-size: 16px;
+}
+
+td, .links{
+    font-size: 14px;
+}
+
+.task-table{
+    box-shadow:20px 20px 50px grey;
+}
+
+.taskno-input{
+    width: 80px;
+}
+
+.submit-btn{
+    font-size: 15px;
+    width: 100px;
+    height: 22px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    background-color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+label{
+    font-weight: 700;
+}
+
